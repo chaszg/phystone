@@ -7,3 +7,4 @@ dependencies:
   - pip
   - ase
   - bokeh
+  - comp_alchemy
