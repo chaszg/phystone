@@ -1,4 +1,4 @@
-name: example-environment
+name: comp_alchemy_notebook
 channels:
   - conda-forge
 dependencies:
@@ -8,3 +8,4 @@ dependencies:
   - ase
   - bokeh
   - comp_alchemy
+  - git+https://github.com/chaszg/phystone/#egg=comp_alchemy
