@@ -7,5 +7,4 @@ dependencies:
   - pip
   - ase
   - bokeh
-  - comp_alchemy
-  - git+https://github.com/chaszg/phystone/comp_alchemy
+  - git+https://github.com/chaszg/phystone/tree/master/comp_alchemy
