@@ -8,4 +8,4 @@ dependencies:
   - ase
   - bokeh
   - pip:
-    - git+https://github.com/chaszg/phystone/tree/master/comp_alchemy
+    - git+https://github.com/chaszg/phystone/tree/master/comp_alchemy#egg=comp_alchemy
