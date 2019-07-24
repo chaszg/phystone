@@ -7,3 +7,5 @@ dependencies:
   - pip
   - ase
   - bokeh
+  pip:
+    -git+https://github.com/chaszg/phystone#egg=comp_alchemy
