@@ -7,5 +7,6 @@ dependencies:
   - pip
   - ase
   - bokeh
+  - nglview
   - pip:
     - git+https://github.com/chaszg/phystone#egg=comp_alchemy
