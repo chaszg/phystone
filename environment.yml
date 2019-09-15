@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - pandas
   - pip
   - ase
   - bokeh
