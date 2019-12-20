@@ -10,5 +10,6 @@ dependencies:
   - bokeh
   - nglview
   - ipywidgets
+  - scikit-learn
   - pip:
     - git+https://github.com/chaszg/phystone#egg=comp_alchemy
