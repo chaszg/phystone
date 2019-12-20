@@ -16,3 +16,4 @@ Interact with example notebooks:
 ### References
 <ol>
 <li>Karthikeyan Saravanan, John R. Kitchin, O. Anatole von Lilienfeld, John A. Keith. Alchemical Predictions for Computational Catalysis: Potential and Limitations. The Journal of Physical Chemistry Letters 8, 5002–5007 American Chemical Society (ACS), 2017.</li>
+<li>Charles D. Griego, Karthikeyan Saravanan, John A. Keith. Benchmarking Computational Alchemy for Carbide Nitride, and Oxide Catalysts. Advanced Theory and Simulations 2, 1800142 Wiley, 2018.</li>
