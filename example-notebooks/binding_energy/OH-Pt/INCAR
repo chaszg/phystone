@@ -1,0 +1,6 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 350.000000
+ NSW = 0
+ IBRION = -1
+ LCHARG = .FALSE.
+ LWAVE = .FALSE.
